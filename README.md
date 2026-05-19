@@ -12,10 +12,10 @@
 
 Machine Learning Engineer with 2.5 years of experience building production-grade GenAI and ML systems. I specialize in RAG pipelines, LLM integration, and end-to-end ML deployment. Published IEEE researcher with hands-on experience taking models from prototype to production.
 
-- 🔭 Currently working on **GenAI & Agentic AI systems**
-- 🌱 Interested in **LLM fine-tuning, ML Engineering, and RAG optimization**
+- 🔭 Shipping **GenAI systems end-to-end**
+- 🧠 Deep in **agentic AI, RAG optimization, and LLM evaluation**
 - 📄 Published research on **quantum-inspired constraint-based optimization (IEEE)**
-- 💬 Ask me about **RAG, LLMs, XGBoost, FAISS, or ML system design**
+
 
 ---
 
