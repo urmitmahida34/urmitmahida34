@@ -1,6 +1,6 @@
 # Hi, I'm Urmit 👋
 
-**ML Engineer | GenAI & RAG Systems | Production ML | Researcher**
+**ML Engineer | Researcher | GenAI & RAG Systems | Production ML**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/urmit-mahida-95a53b152)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:urmitmahida34@gmail.com)
