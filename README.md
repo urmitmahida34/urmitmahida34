@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-Machine Learning Engineer with 2.5 years of experience building production-grade GenAI and ML systems. I specialize in RAG pipelines, LLM integration, and end-to-end ML deployment. Published IEEE researcher with hands-on experience taking models from prototype to production.
+Machine Learning Engineer with 2.5 years of experience building GenAI and ML solutions. I specialize in RAG pipelines, LLM integration, and end-to-end ML deployment, with hands-on experience taking models from prototype to production. Published IEEE research paper.
 
 - 🔭 Shipping **GenAI systems end-to-end**
 - 🧠 Deep in **agentic AI, RAG optimization, and LLM evaluation**
