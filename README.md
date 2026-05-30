@@ -6,7 +6,7 @@
   I like turning research ideas into practical systems with measurable impact.
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)](https://urmit-ai.netlify.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Urmit%20Mahida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/urmit-mahida-95a53b152)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/urmit-mahida-95a53b152)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:urmitmahida34@gmail.com)
 
 ---
