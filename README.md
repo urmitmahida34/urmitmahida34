@@ -5,9 +5,9 @@
   I specialize in **RAG pipelines, LLM agents, multimodal retrieval, ML deployment, and cloud-based AI applications**.
   I like turning research ideas into practical systems with measurable impact.
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=netlify&logoColor=white&labelColor=111827)](https://urmit-ai.netlify.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827)](https://linkedin.com/in/urmit-mahida-95a53b152)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827)](mailto:urmitmahida34@gmail.com)
+ [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=netlify&logoColor=white&labelColor=111827)](https://urmit-ai.netlify.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827)](https://linkedin.com/in/urmit-mahida-95a53b152)
+  [![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827)](mailto:urmitmahida34@gmail.com)
 
 ---
 
