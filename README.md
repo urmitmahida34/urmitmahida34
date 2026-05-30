@@ -20,17 +20,6 @@ I build AI systems that move from prototype to production: RAG pipelines, LLM ag
 - 🧠 Deep in **agentic AI, RAG optimization, and LLM evaluation**
 - 📄 Published research on **quantum-inspired constraint-based optimization (IEEE)**
 
-## Featured AI Projects
-
-  ### FinSight AI
-  6-agent CrewAI stock research system for NSE/BSE companies with live SSE streaming.
-
-  ### Multimodal PDF RAG
-  Research-paper Q&A system using text + image retrieval with CLIP, Qdrant, FAISS, and LLaMA Vision.
-
-  ### Movie Recommender
-  Hybrid recommendation app combining Funk SVD and semantic search over MovieLens 1M.
-  
 ---
 
 ## Research
