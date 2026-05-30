@@ -1,7 +1,11 @@
-# Hi, I'm Urmit 👋
+# Hi, I'm Urmit Mahida
 
-**ML Engineer | Researcher | GenAI & RAG Systems | Production ML**
+ ### Data Scientist & GenAI Engineer building production-grade AI systems
 
+  I specialize in **RAG pipelines, LLM agents, multimodal retrieval, ML deployment, and cloud-based AI applications**.
+  I like turning research ideas into practical systems with measurable impact.
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-urmit--ai.netlify.app-00D9FF?style=for-the-badge&logo=netlify&logoColor=white)](https://urmit-ai.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/urmit-mahida-95a53b152)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:urmitmahida34@gmail.com)
 📍 Bengaluru, India
@@ -10,16 +14,31 @@
 
 ### 👨‍💻 About Me
 
-Machine Learning Engineer with 2.5 years of experience building GenAI and ML solutions. I specialize in RAG pipelines, LLM integration, and end-to-end ML deployment, with hands-on experience taking models from prototype to production. Published IEEE research paper.
+I build AI systems that move from prototype to production: RAG pipelines, LLM agents, ML models, vector search, evaluation workflows, and cloud deployments.
 
 - 🔭 Shipping **GenAI systems end-to-end**
 - 🧠 Deep in **agentic AI, RAG optimization, and LLM evaluation**
 - 📄 Published research on **quantum-inspired constraint-based optimization (IEEE)**
 
+## Featured AI Projects
 
+  ### FinSight AI
+  6-agent CrewAI stock research system for NSE/BSE companies with live SSE streaming.
+
+  ### Multimodal PDF RAG
+  Research-paper Q&A system using text + image retrieval with CLIP, Qdrant, FAISS, and LLaMA Vision.
+
+  ### Movie Recommender
+  Hybrid recommendation app combining Funk SVD and semantic search over MovieLens 1M.
+  
 ---
 
+## Research
+
+  Published IEEE research on quantum-inspired constraint optimization and explainable AI for EV charging infrastructure in smart cities.
+  
 ### 🛠️ Tech Stack
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
