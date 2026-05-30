@@ -5,7 +5,7 @@
   I specialize in **RAG pipelines, LLM agents, multimodal retrieval, ML deployment, and cloud-based AI applications**.
   I like turning research ideas into practical systems with measurable impact.
   
-[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-Visit_My_AI_Portfolio-00D9FF?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0B1120)](https://urmit-ai.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-00D9FF?style=for-the-badge&logo=netlify&logoColor=white&labelColor=111827)](https://urmit-ai.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/urmit-mahida-95a53b152)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:urmitmahida34@gmail.com)
 📍 Bengaluru, India
