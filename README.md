@@ -17,7 +17,6 @@ I build AI systems that move from prototype to production: RAG pipelines, LLM ag
 
 - 🔭 Shipping **GenAI systems end-to-end**
 - 🧠 Deep in **agentic AI, RAG optimization, and LLM evaluation**
-- 📄 Published research on **quantum-inspired constraint-based optimization (IEEE)**
 
 ---
 
